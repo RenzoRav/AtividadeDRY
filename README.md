@@ -1,4 +1,4 @@
-# 🔄 Refatoração de Código com DRY e POO
+# 🔄 Refatoração de Código 
 
 ## 🎯 Objetivo  
 Refatorar um código Java eliminando repetições e aplicando boas práticas de **Programação Orientada a Objetos (POO)**.
